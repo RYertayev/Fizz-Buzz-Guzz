@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\c#\\Fizz-Buzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCE06CA-178C-49C9-9B78-4B98C780D1E6}|Fizz-Buzz\\Fizz-Buzz.csproj|c:\\users\\lenovo\\desktop\\c#\\fizz-buzz\\fizz-buzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCE06CA-178C-49C9-9B78-4B98C780D1E6}|Fizz-Buzz\\Fizz-Buzz.csproj|solutionrelative:fizz-buzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#\\Fizz-Buzz\\Fizz-Buzz\\Program.cs",
+              "RelativeDocumentMoniker": "Fizz-Buzz\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#\\Fizz-Buzz\\Fizz-Buzz\\Program.cs",
+              "RelativeToolTip": "Fizz-Buzz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T21:53:32.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
