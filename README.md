@@ -1,0 +1,1 @@
+Fizz-Buzz-Guzz is training laboratory work for my students which is based on C# PL.
